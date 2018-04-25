@@ -1,11 +1,9 @@
 Package: LM2GLMM
 Version: 20180424.1
 Depends: R (>= 3.3.0)
-Imports: ade4, ape, boot, brglm, car, carData, caret, DHARMa, effects,
-        ellipse, spaMM, stats, glm2, gtools, IsoriX, lattice, lme4,
-        lmtest, MASS, maps, metafor, mgcv, multcomp, mvtnorm, nadiv,
-        nlme, nloptr, nortest, pbkrtest, pscl, rasterVis, fastR,
-        safeBinaryRegression, sem, visreg
+Imports: ade4, ape, boot, brglm, car, carData, caret, DHARMa, effects, ellipse, spaMM, stats, glm2, gtools,
+            IsoriX, lattice, lme4, lmtest, MASS, maps, metafor, mgcv, multcomp, mvtnorm, nadiv, nlme,
+            nloptr, nortest, pbkrtest, pscl, rasterVis, fastR, safeBinaryRegression, sem, visreg
 Suggests: knitr, rmarkdown, rcdd, rgl
 License: GPL (>= 2)
 MD5sum: 2bef65ed247cee969966b5e2971ddbf1
@@ -18,5 +16,5 @@ Imports: doSNOW, foreach, nloptr, parallel, Rcpp
 LinkingTo: Rcpp
 Suggests: devtools, drat, openxlsx, R.utils
 License: GPL (>= 2)
-MD5sum: 37d80b80b424158177328cf824d7e3f9
+MD5sum: 41ee7ee7689f6e8080974f50eff3b470
 NeedsCompilation: yes
