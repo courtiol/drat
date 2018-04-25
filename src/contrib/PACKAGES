@@ -18,5 +18,5 @@ Imports: doSNOW, foreach, nloptr, parallel, Rcpp
 LinkingTo: Rcpp
 Suggests: devtools, drat, openxlsx, R.utils
 License: GPL (>= 2)
-MD5sum: 9e077c44c22bdcd31a223cae11c2e493
+MD5sum: a90aa9a84cccc4bc59ba603e8e13587d
 NeedsCompilation: yes
