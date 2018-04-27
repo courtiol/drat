@@ -11,7 +11,7 @@ Imports: ade4, ape, boot, brglm, car,
      safeBinaryRegression, sem, visreg
 Suggests: rmarkdown, rcdd, rgl
 License: GPL (>= 2)
-MD5sum: 0f5c741d259540b37125d7b92479ccec
+MD5sum: 92c8d0a930ffffcda14e203713da9be1
 NeedsCompilation: no
 
 Package: SileR
