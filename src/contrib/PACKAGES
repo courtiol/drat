@@ -6,7 +6,7 @@ Imports: ade4, ape, boot, brglm2, car, carData, caret, DHARMa, drat, e1071, effe
               nadiv, nlme, nloptr, nortest, pbkrtest, pscl, rasterVis, fastR, safeBinaryRegression, sem, tools, visreg
 Suggests: rmarkdown, rcdd, rgl
 License: GPL (>= 2)
-MD5sum: cd1cb21dd0683a7d14f8bdc9b816222d
+MD5sum: b9a321d13dc766a26304fd548e5275be
 NeedsCompilation: no
 
 Package: SileR
