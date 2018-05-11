@@ -1,12 +1,14 @@
 Package: LM2GLMM
-Version: 20180511.1
+Version: 20180511.2
 Depends: R (>= 3.3.0)
-Imports: ade4, ape, boot, brglm2, car, carData, caret, DHARMa, drat, e1071, effects, ellipse, spaMM, stats, glm2, glmmTMB,
-              gtools, knitr, IsoriX, lattice, lme4, lmtest, lmerTest, MASS, maps, merTools, metafor, mgcv, multcomp, mvtnorm,
-              nadiv, nlme, nloptr, nortest, pbkrtest, pscl, rasterVis, fastR, safeBinaryRegression, sem, tools, visreg
+Imports: ade4, ape, boot, brglm2, car, carData, caret, DHARMa, drat, e1071,
+         effects, ellipse, spaMM, stats, glm2, glmmTMB, gtools, knitr, IsoriX,
+         lattice, lme4, lmtest, lmerTest, MASS, maps, merTools, metafor, mgcv,
+         multcomp, mvtnorm, nadiv, nlme, nloptr, nortest, pbkrtest, pscl,
+         rasterVis, fastR, safeBinaryRegression, sem, tools, visreg
 Suggests: rmarkdown, rcdd, rgl
 License: GPL (>= 2)
-MD5sum: fe51c2efbbe2b276b2f7ac4645eaf3e0
+MD5sum: 2602e443fb193398e3cebca567ad7494
 NeedsCompilation: no
 
 Package: SileR
