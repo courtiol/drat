@@ -1,5 +1,5 @@
 Package: LM2GLMM
-Version: 20180511.2
+Version: 20180513.1
 Depends: R (>= 3.3.0)
 Imports: ade4, ape, boot, brglm2, car, carData, caret, DHARMa, drat, e1071,
          effects, ellipse, spaMM, stats, glm2, glmmTMB, gtools, knitr, IsoriX,
@@ -8,7 +8,7 @@ Imports: ade4, ape, boot, brglm2, car, carData, caret, DHARMa, drat, e1071,
          rasterVis, fastR, safeBinaryRegression, sem, tools, visreg
 Suggests: rmarkdown, rcdd, rgl
 License: GPL (>= 2)
-MD5sum: 2602e443fb193398e3cebca567ad7494
+MD5sum: 7375f3a54b6192e7c6fb4a4412787402
 NeedsCompilation: no
 
 Package: SileR
