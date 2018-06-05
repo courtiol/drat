@@ -1,13 +1,22 @@
+Package: BeginR
+Version: 0.0.0.9000
+Depends: R (>= 3.5.0)
+Imports: dplyr, ggplot2, gridExtra, knitr, lattice, mosaic, profvis,
+        pryr, R6, spaMM
+Suggests: R.rsp
+License: GPL (>= 2)
+MD5sum: 34f0ccffe94f9c01335bf20445432232
+NeedsCompilation: no
+
 Package: LM2GLMM
 Version: 20180515.1
 Depends: R (>= 3.3.0)
-Imports: ade4, ape, boot, brglm2, car, carData, caret,
-      DHARMa, drat, e1071, effects, ellipse, spaMM, stats,
-      glm2, glmmTMB, gtools, knitr, IsoriX, lattice, lme4,
-      lmtest, lmerTest, MASS, maps, merTools, metafor,
-      mgcv, multcomp, mvtnorm, nadiv, nlme, nloptr,
-      nortest, pbkrtest, pscl, rasterVis, fastR,
-      safeBinaryRegression, sem, tools, visreg
+Imports: ade4, ape, boot, brglm2, car, carData, caret, DHARMa, drat,
+        e1071, effects, ellipse, spaMM, stats, glm2, glmmTMB, gtools,
+        knitr, IsoriX, lattice, lme4, lmtest, lmerTest, MASS, maps,
+        merTools, metafor, mgcv, multcomp, mvtnorm, nadiv, nlme,
+        nloptr, nortest, pbkrtest, pscl, rasterVis, fastR,
+        safeBinaryRegression, sem, tools, visreg
 Suggests: rmarkdown, rcdd, rgl
 License: GPL (>= 2)
 MD5sum: 9dd0ae8b3cae6dc5a00ecff5dd257891
