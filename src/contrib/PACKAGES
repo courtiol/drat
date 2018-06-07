@@ -10,21 +10,22 @@ NeedsCompilation: no
 Package: LM2GLMM
 Version: 20180515.1
 Depends: R (>= 3.3.0)
-Imports: ade4, ape, boot, brglm2, car, carData, caret, DHARMa, drat, e1071, effects, ellipse, spaMM,
-           stats, glm2, glmmTMB, gtools, knitr, IsoriX, lattice, lme4, lmtest, lmerTest, MASS, maps,
-           merTools, metafor, mgcv, multcomp, mvtnorm, nadiv, nlme, nloptr, nortest, pbkrtest, pscl,
-           rasterVis, fastR, safeBinaryRegression, sem, tools, visreg
+Imports: ade4, ape, boot, brglm2, car, carData, caret, DHARMa, drat, e1071, effects,
+         ellipse, spaMM, stats, glm2, glmmTMB, gtools, knitr, IsoriX, lattice, lme4,
+         lmtest, lmerTest, MASS, maps, merTools, metafor, mgcv, multcomp, mvtnorm,
+         nadiv, nlme, nloptr, nortest, pbkrtest, pscl, rasterVis, fastR,
+         safeBinaryRegression, sem, tools, visreg
 Suggests: rmarkdown, rcdd, rgl
 License: GPL (>= 2)
 MD5sum: 9dd0ae8b3cae6dc5a00ecff5dd257891
 NeedsCompilation: no
 
 Package: SileR
-Version: 0.2.2
+Version: 0.2.3
 Depends: R (>= 3.1.0)
 Imports: doSNOW, foreach, nloptr, parallel, Rcpp
 LinkingTo: Rcpp
 Suggests: devtools, drat, openxlsx, R.utils
 License: GPL (>= 2)
-MD5sum: e6c13ddd3a6ff5176875a6d8fcaa6677
-NeedsCompilation: no
+MD5sum: bd0695759d7f31e8b28750521e5a2c43
+NeedsCompilation: yes
