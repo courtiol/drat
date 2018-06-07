@@ -1,8 +1,8 @@
 Package: SileR
-Version: 0.2.1
+Version: 0.2.2
 Depends: R (>= 3.1.0)
 Imports: doSNOW, foreach, nloptr, parallel, Rcpp
 LinkingTo: Rcpp
 Suggests: devtools, drat, openxlsx, R.utils
 License: GPL (>= 2)
-MD5sum: 3bd23737fe95caa882aec9f7d4645ac8
+MD5sum: b1ab314635b6d75a6c12f6b6e544611c
