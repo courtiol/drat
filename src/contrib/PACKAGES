@@ -1,11 +1,11 @@
 Package: BeginR
 Version: 0.0.0.9000
 Depends: R (>= 3.5.0)
-Imports: dplyr, ggplot2, gridExtra, knitr, lattice, mosaic, profvis,
-        purrr, pryr, R6, spaMM
+Imports: tidyverse, gridExtra, knitr, lattice, mosaic, profvis, pryr,
+        R6, spaMM
 Suggests: R.rsp
 License: GPL (>= 2)
-MD5sum: b1296994a30c19718e81d6d55fb2876a
+MD5sum: d32ca9a5091cbd673479260b441114e1
 NeedsCompilation: no
 
 Package: LM2GLMM
