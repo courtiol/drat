@@ -5,7 +5,7 @@ Imports: dplyr, ggplot2, gridExtra, knitr, lattice, mosaic, profvis,
         purrr, pryr, R6, spaMM
 Suggests: R.rsp
 License: GPL (>= 2)
-MD5sum: 39e876a407d0f3c347d3eb16d82eed1b
+MD5sum: b1296994a30c19718e81d6d55fb2876a
 NeedsCompilation: no
 
 Package: LM2GLMM
