@@ -5,7 +5,7 @@ Imports: gridExtra, knitr, lattice, mosaic, profvis, pryr, R6, spaMM,
         tidyverse, utils
 Suggests: R.rsp
 License: GPL (>= 2)
-MD5sum: a4e7a101dabd027ba28e1fa9c91ffef7
+MD5sum: 0f2290291980c6fd23f9fe7a0490ef3f
 NeedsCompilation: no
 
 Package: LM2GLMM
