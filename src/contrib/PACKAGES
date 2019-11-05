@@ -1,8 +1,8 @@
 Package: BeginR
 Version: 20180629.1
 Depends: R (>= 3.0)
-Imports: ade4, brglm2, car, carData, ggmap, gridExtra, knitr, lattice, lmtest, mosaic, nadiv,
-          nlme, profvis, pryr, pscl, R6, Rcpp, scales, spaMM, tidyverse, utils, vcd, visreg
+Imports: ade4, brglm2, car, carData, ggmap, gridExtra, knitr, lattice, lmtest, mosaic, nadiv, nlme, profvis, pryr,
+             pscl, R6, Rcpp, scales, spaMM, tidyverse, utils, vcd, visreg
 Suggests: R.rsp
 License: GPL (>= 2)
 MD5sum: e6dc608b25a0d1b9342f3a5ea8777636
@@ -11,22 +11,22 @@ NeedsCompilation: no
 Package: LM2GLMM
 Version: 20180515.1
 Depends: R (>= 3.3.0)
-Imports: ade4, ape, boot, brglm2, car, carData, caret, DHARMa, drat, e1071, effects, ellipse,
-          spaMM, stats, glm2, glmmTMB, gtools, knitr, IsoriX, lattice, lme4, lmtest, lmerTest,
-          MASS, maps, merTools, metafor, mgcv, multcomp, mvtnorm, nadiv, nlme, nloptr, nortest,
-          pbkrtest, pscl, rasterVis, fastR, safeBinaryRegression, sem, tools, visreg
+Imports: ade4, ape, boot, brglm2, car, carData, caret, DHARMa, drat, e1071, effects, ellipse, spaMM, stats, glm2,
+             glmmTMB, gtools, knitr, IsoriX, lattice, lme4, lmtest, lmerTest, MASS, maps, merTools, metafor, mgcv,
+             multcomp, mvtnorm, nadiv, nlme, nloptr, nortest, pbkrtest, pscl, rasterVis, fastR, safeBinaryRegression,
+             sem, tools, visreg
 Suggests: rmarkdown, rcdd, rgl
 License: GPL (>= 2)
 MD5sum: 9dd0ae8b3cae6dc5a00ecff5dd257891
 NeedsCompilation: no
 
 Package: matingRhinos
-Version: 0.9
+Version: 0.9.1
 Depends: R (>= 3.5.0)
 Imports: cowplot, ggplot2, ggforce
 Suggests: R.utils
 License: GPL (>= 2)
-MD5sum: 4bcc4c13299c72d6d22fa7d1aa59aea5
+MD5sum: 9c2c9e076dd31fee4d143e00135a6919
 NeedsCompilation: no
 
 Package: SileR
