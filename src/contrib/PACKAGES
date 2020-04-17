@@ -18,7 +18,7 @@ Imports: ade4, ape, boot, brglm2, car, caret, dplyr, DHARMa, drat, e1071, effect
           pbkrtest, pscl, rasterVis, safeBinaryRegression, sem, tools, visreg
 Suggests: IsoriX, rmarkdown, rcdd, rgl
 License: GPL (>= 2)
-MD5sum: 98b95e5ff758ee115393d7d3d89662f1
+MD5sum: f0380b0a50bc89d21b38b8417e31e6f2
 NeedsCompilation: no
 
 Package: matingRhinos
