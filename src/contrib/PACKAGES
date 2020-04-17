@@ -11,7 +11,7 @@ MD5sum: e6dc608b25a0d1b9342f3a5ea8777636
 NeedsCompilation: no
 
 Package: LM2GLMM
-Version: 20201704.3
+Version: 20201704.4
 Depends: R (>= 3.3.0)
 Imports: ade4, ape, boot, brglm2, car, caret, dplyr, DHARMa,
        drat, e1071, effects, ellipse, spaMM, stats, glm2,
@@ -21,7 +21,7 @@ Imports: ade4, ape, boot, brglm2, car, caret, dplyr, DHARMa,
        rasterVis, safeBinaryRegression, sem, tools, visreg
 Suggests: IsoriX, rmarkdown, rcdd, rgl
 License: GPL (>= 2)
-MD5sum: 77f1cba95794d3aae4f7fbe8f40439ed
+MD5sum: 72c67fe0d2f3cd0e5c7d6a7f3461444f
 NeedsCompilation: no
 
 Package: matingRhinos
