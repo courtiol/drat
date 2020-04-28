@@ -10,16 +10,16 @@ MD5sum: e6dc608b25a0d1b9342f3a5ea8777636
 NeedsCompilation: no
 
 Package: LM2GLMM
-Version: 20200427.1
+Version: 20200428.1
 Depends: R (>= 3.3.0)
 Imports: ade4, ape, boot, brglm2, car, caret, dplyr, DHARMa, drat, e1071,
         effects, ellipse, spaMM, stats, glm2, glmmTMB, knitr, lattice, lme4,
-        lmtest, lmerTest, MASS, maps, merTools, metafor, mgcv, microbenchmark,
-        multcomp, mvtnorm, nadiv, nlme, nloptr, nortest, pbkrtest, pscl,
-        rasterVis, safeBinaryRegression, sem, tools, visreg
+        lmtest, lmerTest, MASS, maps, merTools, metafor, mgcv,
+        microbenchmark, multcomp, mvtnorm, nadiv, nlme, nloptr, nortest,
+        pbkrtest, pscl, rasterVis, safeBinaryRegression, sem, tools, visreg
 Suggests: devtools, IsoriX, rmarkdown, rcdd, rgl
 License: GPL (>= 2)
-MD5sum: 24a3e54aecb54aac3ed114edf42ce30b
+MD5sum: 8654b102d0bff865d3428ecf85c58523
 NeedsCompilation: no
 
 Package: matingRhinos
