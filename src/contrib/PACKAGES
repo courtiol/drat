@@ -9,19 +9,6 @@ MD5sum: e6dc608b25a0d1b9342f3a5ea8777636
 NeedsCompilation: no
 
 Package: LM2GLMM
-Version: 20220603.1
-Depends: R (>= 4.1.0)
-Imports: ade4, ape, boot, brglm2, car, caret, dplyr, DHARMa, drat, e1071, effects, ellipse, forcats,
-           spaMM, stats, ggplot2, ggrepel, glm2, glmmTMB, knitr, lattice, lme4, lmtest, lmerTest,
-           MASS, maps, merTools, metafor, mgcv, mgcViz, microbenchmark, multcomp, mvtnorm, nadiv,
-           nlme, nloptr, nortest, pbkrtest, pscl, rasterVis, rgl, ROI.plugin.glpk,
-           safeBinaryRegression, scales, sem, tools, visreg
-Suggests: devtools, doSNOW, emojifont, IsoriX, rmarkdown, rcdd, rgl
-License: GPL (>= 2)
-MD5sum: 71bfef007d24a8330346c00bce111d88
-NeedsCompilation: no
-
-Package: LM2GLMM
 Version: 20220603.2
 Depends: R (>= 4.1.0)
 Imports: ade4, ape, boot, brglm2, car, caret, dplyr, DHARMa, drat, e1071, effects, ellipse, forcats,
