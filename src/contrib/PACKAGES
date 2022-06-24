@@ -1,9 +1,10 @@
 Package: BeginR
 Version: 20180629.1
 Depends: R (>= 3.0)
-Imports: ade4, brglm2, car, carData, ggmap, gridExtra, knitr,
-       lattice, lmtest, mosaic, nadiv, nlme, profvis, pryr, pscl,
-       R6, Rcpp, scales, spaMM, tidyverse, utils, vcd, visreg
+Imports: ade4, brglm2, car, carData, ggmap,
+      gridExtra, knitr, lattice, lmtest, mosaic,
+      nadiv, nlme, profvis, pryr, pscl, R6, Rcpp,
+      scales, spaMM, tidyverse, utils, vcd, visreg
 Suggests: R.rsp
 License: GPL (>= 2)
 MD5sum: e6dc608b25a0d1b9342f3a5ea8777636
@@ -12,17 +13,19 @@ NeedsCompilation: no
 Package: LM2GLMM
 Version: 20220624.1
 Depends: R (>= 4.1.0)
-Imports: ade4, ape, boot, brglm2, car, caret, dplyr, DHARMa,
-       drat, e1071, effects, ellipse, forcats, spaMM, stats,
-       ggplot2, ggrepel, glm2, glmmTMB, knitr, lattice, lme4,
-       lmtest, lmerTest, MASS, maps, merTools, metafor, mgcv,
-       mgcViz, microbenchmark, multcomp, mvtnorm, nadiv, nlme,
-       nloptr, nortest, pbkrtest, pscl, rasterVis, rgl,
-       ROI.plugin.glpk, safeBinaryRegression, scales, sem, tools,
-       visreg
-Suggests: devtools, doSNOW, emojifont, IsoriX, rmarkdown, rcdd
+Imports: ade4, ape, boot, brglm2, car, caret, dplyr,
+      DHARMa, drat, e1071, effects, ellipse, forcats,
+      spaMM, stats, ggplot2, ggrepel, glm2, glmmTMB,
+      knitr, lattice, lme4, lmtest, lmerTest, MASS,
+      maps, merTools, metafor, mgcv, mgcViz,
+      microbenchmark, multcomp, mvtnorm, nadiv, nlme,
+      nloptr, nortest, pbkrtest, pscl, rasterVis,
+      rgl, ROI.plugin.glpk, safeBinaryRegression,
+      scales, sem, tools, visreg
+Suggests: devtools, doSNOW, emojifont, IsoriX,
+      rmarkdown, rcdd
 License: GPL (>= 2)
-MD5sum: e21484b284d19547ee0a9ca6faccf53b
+MD5sum: 0c08deb7f5e628715eae7b2bae6bd7f6
 NeedsCompilation: no
 
 Package: matingRhinos
