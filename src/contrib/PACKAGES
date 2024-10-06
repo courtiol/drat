@@ -18,7 +18,7 @@ Imports: ade4, ape, boot, brglm2, cAIC4, car, caret, detectseparation, dplyr, DH
            rgl, ROI.plugin.glpk, scales, sem, tidyr, tools, visreg
 Suggests: devtools, doSNOW, emojifont, IsoriX, patchwork, rmarkdown, rcdd
 License: GPL (>= 2)
-MD5sum: ddca7ed4d5beaaf32cd85c42bdeb9beb
+MD5sum: 3057be6276d4ed08cf0ca8d4785c4824
 NeedsCompilation: no
 
 Package: matingRhinos
